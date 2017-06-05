@@ -1,0 +1,10 @@
+org.deziras
+org.deziras.annotations
+org.deziras.collection
+org.deziras.function
+org.deziras.io
+org.deziras.json
+org.deziras.match
+org.deziras.match.model
+org.deziras.util
+org.deziras.util.iterator
